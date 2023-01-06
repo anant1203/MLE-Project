@@ -1,3 +1,19 @@
+*.ipynb_checkpoints/
+*.tar.gz
+*s2v_old/
+*.code-workspace
+*__pycache__/
+*.pyc
+*.idea/
+*.egg-info/
+*.egg
+*tmp/
+*.DS_Store/
+*.tgz
+*.npy
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
