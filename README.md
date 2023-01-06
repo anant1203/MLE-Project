@@ -1,2 +1,2 @@
-# MLE-Project
-machine learning engineering project on vertex ai, apache beam and Flask
+# ML_project_practise
+machine learning practise project
